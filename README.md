@@ -8,5 +8,6 @@
 * MUSYOKI
 
 **STANSLAUS**
-#STANSLAUS
+##### STANSLAUS IMAGE
+
 ![image](https://upload.wikimedia.org/wikipedia/commons/4/4e/Phagocytosis_--_amoeba.jpg)
