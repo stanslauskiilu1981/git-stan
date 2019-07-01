@@ -1,6 +1,6 @@
 # Git is fun
 
-## This is my frst depositry
+## This is my first depository
 ### its a good experience
 #### lIST OF NAMES OF MY CLASSMATES
 * STANSLAUS
