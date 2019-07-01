@@ -7,8 +7,8 @@
 * KIILU
 * MUSYOKI
 
-**STANSLAUS**
-##### STANSLAUS IMAGE
+
+**STANSLAUS IMAGE**
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/4/4e/Phagocytosis_--_amoeba.jpg)
 # This is my link to immune response
